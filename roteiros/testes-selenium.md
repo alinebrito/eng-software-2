@@ -180,19 +180,6 @@ Cada teste deve conter, no mínimo:
 
 ---
 
-## Entrega
-
-Ao final da atividade, entregue:
-
-1. O arquivo `.side` exportado do Selenium IDE com a suíte completa.
-2. Um pequeno relatório (1 página) contendo:
-   * Quais páginas/funcionalidades foram testadas.
-   * Quantos testes foram criados.
-   * Quais asserções foram utilizadas.
-   * Uma reflexão: *Em quais situações esse tipo de teste é útil? Quais limitações você percebeu?*
-
----
-
 ## Para Refletir
 
 * Por que testes automatizados de interface costumam ser considerados **frágeis**? O que acontece se o desenvolvedor mudar o nome de um botão?
