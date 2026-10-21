@@ -7,5 +7,6 @@
 
 ## Atividades Práticas
 
-[Roteiro Prático - Métricas de Software](roteiros/metricas-software.md)
+[Roteiro Prático - Planejamento do Projeto: Requisitos, Sprints e Telas](roteiros/planejamento-projeto.md)
 
+[Roteiro Prático - Testes Automatizados com Selenium IDE](roteiros/testes-selenium.md)
